@@ -1,0 +1,1 @@
+{"textures":{"particle":"#10","10":"modelengine:entity/models/winga"},"elements":[{"from":[7.802931,-8.258726,8.0],"to":[24.75142,14.602034,8.0],"faces":{"south":{"uv":[4.75,1.0,10.125,8.25],"tintindex":0,"rotation":0,"texture":"#10"},"north":{"uv":[10.125,1.0,4.75,8.25],"tintindex":0,"rotation":0,"texture":"#10"}}}],"display":{"gui":{"rotation":[-150.0,-45.0,180.0]}}}

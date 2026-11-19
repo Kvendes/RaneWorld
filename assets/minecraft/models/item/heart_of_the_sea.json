@@ -1,0 +1,1 @@
+{"overrides":[{"model":"reallyworld:item/trap1","predicate":{"custom_model_data":100}},{"model":"reallyworld:item/trap2","predicate":{"custom_model_data":101}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/heart_of_the_sea"}}

@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/trap1","type":"minecraft:model"},"threshold":100},{"model":{"model":"reallyworld:item/trap2","type":"minecraft:model"},"threshold":101}],"fallback":{"model":"minecraft:item/heart_of_the_sea","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}

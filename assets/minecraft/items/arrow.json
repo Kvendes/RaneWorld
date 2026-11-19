@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/left","type":"minecraft:model"},"threshold":10002},{"model":{"model":"reallyworld:item/right","type":"minecraft:model"},"threshold":10003}],"fallback":{"model":"minecraft:item/arrow","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}

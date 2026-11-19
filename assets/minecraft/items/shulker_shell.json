@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/kit","type":"minecraft:model"},"threshold":10105}],"fallback":{"model":"minecraft:item/shulker_shell","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}

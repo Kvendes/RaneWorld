@@ -1,0 +1,172 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:custom/entities/player/head",
+          "model": {
+            "type": "minecraft:player_head"
+          }
+        },
+        "threshold": 1
+      },
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:custom/entities/player/right_arm",
+          "model": {
+            "type": "minecraft:player_head"
+          }
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:custom/entities/player/left_arm",
+          "model": {
+            "type": "minecraft:player_head"
+          }
+        },
+        "threshold": 3
+      },
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:custom/entities/player/torso",
+          "model": {
+            "type": "minecraft:player_head"
+          }
+        },
+        "threshold": 4
+      },
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:custom/entities/player/right_leg",
+          "model": {
+            "type": "minecraft:player_head"
+          }
+        },
+        "threshold": 5
+      },
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:custom/entities/player/left_leg",
+          "model": {
+            "type": "minecraft:player_head"
+          }
+        },
+        "threshold": 6
+      },
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:custom/entities/player/slim_right",
+          "model": {
+            "type": "minecraft:player_head"
+          }
+        },
+        "threshold": 7
+      },
+      {
+        "model": {
+          "type": "minecraft:special",
+          "base": "minecraft:custom/entities/player/slim_left",
+          "model": {
+            "type": "minecraft:player_head"
+          }
+        },
+        "threshold": 8
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/air"
+        },
+        "threshold": 5001
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/dirt"
+        },
+        "threshold": 5002
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/fire"
+        },
+        "threshold": 5003
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/light"
+        },
+        "threshold": 5004
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/water"
+        },
+        "threshold": 5005
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/order"
+        },
+        "threshold": 5006
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/chaos"
+        },
+        "threshold": 5007
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/ice"
+        },
+        "threshold": 5008
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/lightning"
+        },
+        "threshold": 5009
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/darkness"
+        },
+        "threshold": 5010
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "reallyworld:item/sphere/blood"
+        },
+        "threshold": 5011
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:special",
+      "base": "minecraft:item/template_skull",
+      "model": {
+        "type": "minecraft:player_head"
+      }
+    },
+    "property": "minecraft:custom_model_data"
+  }
+}

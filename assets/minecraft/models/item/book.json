@@ -1,0 +1,1 @@
+{"overrides":[{"model":"reallyworld:item/mage","predicate":{"custom_model_data":10107}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/book"}}

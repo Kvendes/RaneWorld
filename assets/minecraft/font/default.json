@@ -1,0 +1,905 @@
+{
+  "providers": [
+    {
+      "file": "minecraft:negative_spaces.ttf",
+      "oversample": 1,
+      "shift": [
+        0,
+        0
+      ],
+      "size": 10,
+      "type": "ttf"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        ""
+      ],
+      "file": "minecraft:custom/golem_bossbar.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        ""
+      ],
+      "file": "minecraft:custom/santa.png",
+      "height": 52,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 40,
+      "chars": [
+        "ꀀ"
+      ],
+      "file": "reallyworld:gui/gui_bg.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꀁ"
+      ],
+      "file": "reallyworld:gui/gui_decoration.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꀂ"
+      ],
+      "file": "reallyworld:gui/logotype.png",
+      "height": 150,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 40,
+      "chars": [
+        "ꀃ"
+      ],
+      "file": "reallyworld:gui/gui_bg_2.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌀ"
+      ],
+      "file": "reallyworld:gui/content/content_00.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌁ"
+      ],
+      "file": "reallyworld:gui/content/content_01.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌂ"
+      ],
+      "file": "reallyworld:gui/content/content_02.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌃ"
+      ],
+      "file": "reallyworld:gui/content/content_03.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌄ"
+      ],
+      "file": "reallyworld:gui/content/content_04.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌅ"
+      ],
+      "file": "reallyworld:gui/content/content_05.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌆ"
+      ],
+      "file": "reallyworld:gui/content/content_06.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌇ"
+      ],
+      "file": "reallyworld:gui/content/content_07.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌈ"
+      ],
+      "file": "reallyworld:gui/content/content_08.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌉ"
+      ],
+      "file": "reallyworld:gui/content/content_09.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌐ"
+      ],
+      "file": "reallyworld:gui/content/content_10.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌑ"
+      ],
+      "file": "reallyworld:gui/content/content_11.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌒ"
+      ],
+      "file": "reallyworld:gui/content/content_12.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌓ"
+      ],
+      "file": "reallyworld:gui/content/content_13.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌔ"
+      ],
+      "file": "reallyworld:gui/content/content_14.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌕ"
+      ],
+      "file": "reallyworld:gui/content/content_15.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌖ"
+      ],
+      "file": "reallyworld:gui/content/content_16.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌗ"
+      ],
+      "file": "reallyworld:gui/content/content_17.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌘ"
+      ],
+      "file": "reallyworld:gui/content/content_18.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌙ"
+      ],
+      "file": "reallyworld:gui/content/content_19.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌠ"
+      ],
+      "file": "reallyworld:gui/content/content_20.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌡ"
+      ],
+      "file": "reallyworld:gui/content/content_21.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌢ"
+      ],
+      "file": "reallyworld:gui/content/content_22.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌣ"
+      ],
+      "file": "reallyworld:gui/content/content_23.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌤ"
+      ],
+      "file": "reallyworld:gui/content/content_24.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌥ"
+      ],
+      "file": "reallyworld:gui/content/content_25.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌦ"
+      ],
+      "file": "reallyworld:gui/content/content_26.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌧ"
+      ],
+      "file": "reallyworld:gui/content/content_27.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌨ"
+      ],
+      "file": "reallyworld:gui/content/content_28.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌩ"
+      ],
+      "file": "reallyworld:gui/content/content_29.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌰ"
+      ],
+      "file": "reallyworld:gui/content/content_30.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌱ"
+      ],
+      "file": "reallyworld:gui/content/content_31.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌲ"
+      ],
+      "file": "reallyworld:gui/content/content_32.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌳ"
+      ],
+      "file": "reallyworld:gui/content/content_33.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌴ"
+      ],
+      "file": "reallyworld:gui/content/content_34.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌵ"
+      ],
+      "file": "reallyworld:gui/content/content_35.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌶ"
+      ],
+      "file": "reallyworld:gui/content/content_36.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌷ"
+      ],
+      "file": "reallyworld:gui/content/content_37.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌸ"
+      ],
+      "file": "reallyworld:gui/content/content_38.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꌹ"
+      ],
+      "file": "reallyworld:gui/content/content_39.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍀ"
+      ],
+      "file": "reallyworld:gui/content/content_40.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍁ"
+      ],
+      "file": "reallyworld:gui/content/content_41.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍂ"
+      ],
+      "file": "reallyworld:gui/content/content_42.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍃ"
+      ],
+      "file": "reallyworld:gui/content/content_43.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍄ"
+      ],
+      "file": "reallyworld:gui/content/content_44.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍅ"
+      ],
+      "file": "reallyworld:gui/content/content_45.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍆ"
+      ],
+      "file": "reallyworld:gui/content/content_46.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍇ"
+      ],
+      "file": "reallyworld:gui/content/content_47.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍈ"
+      ],
+      "file": "reallyworld:gui/content/content_48.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍉ"
+      ],
+      "file": "reallyworld:gui/content/content_49.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍐ"
+      ],
+      "file": "reallyworld:gui/content/content_50.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍑ"
+      ],
+      "file": "reallyworld:gui/content/content_51.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍒ"
+      ],
+      "file": "reallyworld:gui/content/content_52.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍓ"
+      ],
+      "file": "reallyworld:gui/content/content_53.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍔ"
+      ],
+      "file": "reallyworld:gui/content/content_54.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍕ"
+      ],
+      "file": "reallyworld:gui/content/content_55.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꍖ"
+      ],
+      "file": "reallyworld:gui/content/content_56.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ꘀ"
+      ],
+      "file": "reallyworld:gui/content/content_57.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "թ"
+      ],
+      "file": "reallyworld:gui/content/content_58.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "ƕ"
+      ],
+      "file": "reallyworld:gui/content/content_59.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "Ԅ"
+      ],
+      "file": "reallyworld:gui/content/content_60.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 31,
+      "chars": [
+        "じ"
+      ],
+      "file": "reallyworld:gui/content/content_1_1.png",
+      "height": 256,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 26,
+      "chars": [
+        "ꄀꄁꄂꄃ",
+        "ꄄꄅꄆꄇ",
+        "ꄈꄉꀐꄑ",
+        "ꄒꄓꄔꄕ",
+        "ꄖꄗꄘꄙ",
+        "ꄠꄡꄢꄣ",
+        "ꄤꄥꄦꄧ",
+        "ꄨꄩꄰꄱ"
+      ],
+      "file": "reallyworld:gui/title/title_00.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 26,
+      "chars": [
+        "Ѽѽѿѻ",
+        "ѹѸѷѶ",
+        "ѵѴѳѲ",
+        "ѱѰѯѮ",
+        "ѭѬѫѪ",
+        "ѩѨѧѦ",
+        "ѥѤѣѢ",
+        "҈҉Ҩҩ"
+      ],
+      "file": "reallyworld:gui/title/title_01.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 8,
+      "chars": [
+        "ꔀꔁꔂꔃ",
+        "ꔄꔅꔆꔇ",
+        "ꔈꔉꔐꔑ",
+        "ꔒꔓꔔꔕ",
+        "ꔖꔗꔘꔙ",
+        "ꔠꔡꔢꔣ",
+        "ꔤꔥꔦꔧ",
+        "ꔨꔩꔰꔱ",
+        "ꔲꔳꔴꔵ",
+        "ꔶꔷꔸꔹ",
+        "ꕀꕁꕂꕃ",
+        "ꕄꕅꕆꕇ",
+        "ꕈꕉꕐꕑ",
+        "ꕒꕓꕔꕕ",
+        "ꕖꕗꕘꕙ",
+        "ꕠꕡꕢꕣ"
+      ],
+      "file": "reallyworld:font/prefix.png",
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "_comment": "Те же плашки в приватной области юникода — только ради бедрока: глифы из E000-F8FF там рисуются по разрешению картинки, а не по высоте строки, поэтому плашка выходит полноразмерной. На джаве неотличимо от старых кодпоинтов. Соответствие один в один: A5NN -> E2NN",
+      "ascent": 8,
+      "chars": [
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        "",
+        ""
+      ],
+      "file": "reallyworld:font/prefix.png",
+      "height": 10,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -32768,
+      "chars": [
+        "ꈁ"
+      ],
+      "file": "reallyworld:font/space.png",
+      "height": -50,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -32768,
+      "chars": [
+        "ꈂ"
+      ],
+      "file": "reallyworld:font/space.png",
+      "height": -259,
+      "type": "bitmap"
+    },
+    {
+      "ascent": -32768,
+      "chars": [
+        "ꈃ"
+      ],
+      "file": "reallyworld:font/space.png",
+      "height": -163,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꅁ"
+      ],
+      "file": "reallyworld:font/space/space_1.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꅂ"
+      ],
+      "file": "reallyworld:font/space/space_2.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꅃ"
+      ],
+      "file": "reallyworld:font/space/space_3.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꅄ"
+      ],
+      "file": "reallyworld:font/space/space_4.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꅅ"
+      ],
+      "file": "reallyworld:font/space/space_5.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꅆ"
+      ],
+      "file": "reallyworld:font/space/space_6.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꅇ"
+      ],
+      "file": "reallyworld:font/space/space_7.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꅈ"
+      ],
+      "file": "reallyworld:font/space/space_8.png",
+      "height": 8,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꐀ"
+      ],
+      "file": "reallyworld:font/sidebar_end.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꐁ"
+      ],
+      "file": "reallyworld:font/sidebar_start.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꐂ"
+      ],
+      "file": "reallyworld:font/balance_money.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꐃ"
+      ],
+      "file": "reallyworld:font/balance_really.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꐄ"
+      ],
+      "file": "reallyworld:font/balance_event.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꐅ"
+      ],
+      "file": "reallyworld:font/icon_ms.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꐆ"
+      ],
+      "file": "reallyworld:font/icon_lvl.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 7,
+      "chars": [
+        "ꐇ"
+      ],
+      "file": "reallyworld:font/icon_exp.png",
+      "height": 32,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "﬍"
+      ],
+      "file": "black_nun:black_nun/bossbar/black_nun.png",
+      "height": 52,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "﬌"
+      ],
+      "file": "black_nun:black_nun/bossbar/black_nun_2.png",
+      "height": 52,
+      "type": "bitmap"
+    },
+    {
+      "ascent": 17,
+      "chars": [
+        "﬋"
+      ],
+      "file": "black_nun:black_nun/bossbar/black_nun_3.png",
+      "height": 52,
+      "type": "bitmap"
+    }
+  ]
+}

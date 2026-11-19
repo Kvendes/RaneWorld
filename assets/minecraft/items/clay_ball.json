@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/aura","type":"minecraft:model"},"threshold":10109}],"fallback":{"model":"minecraft:item/clay_ball","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}

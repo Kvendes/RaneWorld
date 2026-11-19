@@ -1,0 +1,1 @@
+{"overrides":[{"model":"reallyworld:item/refresh","predicate":{"custom_model_data":10005}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/snowball"}}

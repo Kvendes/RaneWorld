@@ -1,0 +1,197 @@
+{
+ "textures": {
+  "az_gray": "taxi:item/az_gray",
+  "az_bars": "taxi:item/az_bars",
+  "lc_chrome": "taxi:item/lc_chrome",
+  "particle": "taxi:item/az_gray"
+ },
+ "elements": [
+  {
+   "from": [
+    0.5,
+    5.5,
+    30.5
+   ],
+   "to": [
+    15.5,
+    22.5,
+    31.2
+   ],
+   "faces": {
+    "north": {
+     "texture": "#az_gray",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#az_gray",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#az_gray",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#az_gray",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#az_gray",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "down": {
+     "texture": "#az_gray",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    5,
+    15,
+    31.2
+   ],
+   "to": [
+    11,
+    19,
+    31.3
+   ],
+   "faces": {
+    "south": {
+     "texture": "#az_bars",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    13,
+    12,
+    31.2
+   ],
+   "to": [
+    14.2,
+    13.4,
+    31.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "down": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    }
+   }
+  }
+ ],
+ "display": {
+  "gui": {
+   "rotation": [
+    30,
+    225,
+    0
+   ],
+   "scale": [
+    0.35,
+    0.35,
+    0.35
+   ]
+  },
+  "ground": {
+   "scale": [
+    0.3,
+    0.3,
+    0.3
+   ]
+  },
+  "fixed": {
+   "scale": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  }
+ }
+}

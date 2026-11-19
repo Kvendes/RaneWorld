@@ -1,0 +1,1 @@
+{"overrides":[{"model":"reallyworld:item/end_shard","predicate":{"custom_model_data":100}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/bubble_coral"}}

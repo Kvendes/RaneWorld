@@ -1,0 +1,221 @@
+{
+ "textures": {
+  "lc_black_gloss": "taxi:item/lc_black_gloss",
+  "lc_tint": "taxi:item/lc_tint",
+  "plate": "taxi:item/plate",
+  "lc_chrome": "taxi:item/lc_chrome",
+  "particle": "taxi:item/lc_black_gloss"
+ },
+ "elements": [
+  {
+   "from": [
+    1,
+    4.5,
+    30.6
+   ],
+   "to": [
+    15,
+    19.5,
+    31.2
+   ],
+   "faces": {
+    "north": {
+     "texture": "#lc_black_gloss",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#lc_black_gloss",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#lc_black_gloss",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#lc_black_gloss",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#lc_black_gloss",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "down": {
+     "texture": "#lc_black_gloss",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    2,
+    12,
+    31.2
+   ],
+   "to": [
+    14,
+    18.5,
+    31.3
+   ],
+   "faces": {
+    "south": {
+     "texture": "#lc_tint",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    5,
+    6,
+    31.2
+   ],
+   "to": [
+    11,
+    7.6,
+    31.3
+   ],
+   "faces": {
+    "south": {
+     "texture": "#plate",
+     "uv": [
+      0,
+      0,
+      16,
+      3.44
+     ]
+    }
+   }
+  },
+  {
+   "from": [
+    4,
+    9,
+    31.2
+   ],
+   "to": [
+    12,
+    9.6,
+    31.35
+   ],
+   "faces": {
+    "north": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "south": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "west": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "up": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "down": {
+     "texture": "#lc_chrome",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    }
+   }
+  }
+ ],
+ "display": {
+  "gui": {
+   "rotation": [
+    30,
+    225,
+    0
+   ],
+   "scale": [
+    0.35,
+    0.35,
+    0.35
+   ]
+  },
+  "ground": {
+   "scale": [
+    0.3,
+    0.3,
+    0.3
+   ]
+  },
+  "fixed": {
+   "scale": [
+    0.5,
+    0.5,
+    0.5
+   ]
+  }
+ }
+}

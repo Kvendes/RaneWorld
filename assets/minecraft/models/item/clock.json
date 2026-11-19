@@ -1,0 +1,1 @@
+{"overrides":[{"model":"reallyworld:item/info","predicate":{"custom_model_data":10001}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/clock_00"}}

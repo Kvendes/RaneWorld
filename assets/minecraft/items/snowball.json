@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/refresh","type":"minecraft:model"},"threshold":10005}],"fallback":{"model":"minecraft:item/snowball","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}

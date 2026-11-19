@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/ec","type":"minecraft:model"},"threshold":10111}],"fallback":{"model":"minecraft:block/end_portal_frame","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}

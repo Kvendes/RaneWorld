@@ -1,0 +1,1 @@
+{"overrides":[{"model":"reallyworld:item/left","predicate":{"custom_model_data":10002}},{"model":"reallyworld:item/right","predicate":{"custom_model_data":10003}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/arrow"}}

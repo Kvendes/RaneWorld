@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/pve","type":"minecraft:model"},"threshold":10101}],"fallback":{"model":"minecraft:item/wheat","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}

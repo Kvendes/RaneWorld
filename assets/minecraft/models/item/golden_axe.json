@@ -1,0 +1,1 @@
+{"overrides":[{"model":"reallyworld:item/booster","predicate":{"custom_model_data":10106}}],"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/golden_axe"}}

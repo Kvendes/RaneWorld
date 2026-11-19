@@ -1,0 +1,1 @@
+{"overrides":[{"model":"reallyworld:item/paper1","predicate":{"custom_model_data":100}},{"model":"reallyworld:item/paper2","predicate":{"custom_model_data":101}},{"model":"reallyworld:item/season","predicate":{"custom_model_data":10102}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/paper"}}

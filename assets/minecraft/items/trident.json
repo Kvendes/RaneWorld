@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/trident","type":"minecraft:model"},"threshold":10108}],"fallback":{"model":"minecraft:item/trident","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}

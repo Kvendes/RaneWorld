@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/end_shard","type":"minecraft:model"},"threshold":100}],"fallback":{"model":"minecraft:block/bubble_coral","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}

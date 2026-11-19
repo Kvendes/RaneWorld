@@ -1,0 +1,1 @@
+{"model":{"entries":[{"model":{"model":"reallyworld:item/allgrief","type":"minecraft:model"},"threshold":10100}],"fallback":{"model":"minecraft:item/diamond_sword","type":"minecraft:model"},"property":"minecraft:custom_model_data","type":"minecraft:range_dispatch"}}
