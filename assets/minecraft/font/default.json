@@ -902,7 +902,7 @@
       "type": "bitmap"
     },
     {
-      "ascent": 26,
+      "ascent": 17,
       "chars": [
         ""
       ],
@@ -911,7 +911,7 @@
       "type": "bitmap"
     },
     {
-      "ascent": 26,
+      "ascent": 17,
       "chars": [
         ""
       ],
@@ -922,8 +922,8 @@
     {
       "type": "bitmap",
       "file": "ranewinter:bossbar/winter_banner.png",
-      "ascent": 48,
-      "height": 48,
+      "ascent": 17,
+      "height": 52,
       "chars": [
         ""
       ]
