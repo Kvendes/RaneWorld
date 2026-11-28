@@ -1,0 +1,1 @@
+{"model":{"type":"minecraft:range_dispatch","property":"minecraft:custom_model_data","entries":[{"threshold":9602,"model":{"type":"minecraft:model","model":"raneunic:item/leveller"}}],"fallback":{"type":"minecraft:model","model":"minecraft:item/magma_cream"}}}
