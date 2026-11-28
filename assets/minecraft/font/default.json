@@ -906,7 +906,7 @@
    "chars": [
     ""
    ],
-   "file": "ranewinter:bossbar/winter",
+   "file": "ranewinter:bossbar/winter.png",
    "height": 52,
    "type": "bitmap"
   },
@@ -915,13 +915,13 @@
    "chars": [
     ""
    ],
-   "file": "stenka:bossbar/stenka",
+   "file": "stenka:bossbar/stenka.png",
    "height": 52,
    "type": "bitmap"
   },
   {
    "type": "bitmap",
-   "file": "ranewinter:bossbar/winter_banner",
+   "file": "ranewinter:bossbar/winter_banner.png",
    "ascent": 48,
    "height": 48,
    "chars": [
