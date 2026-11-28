@@ -1,1 +1,1 @@
-{"pack": {"pack_format": 6, "description": "§6RaneWorld 1.21\n§fmc.raneworld.ru"}, "sodium": {"ignored_shaders": ["rendertype_entity_translucent.fsh", "rendertype_entity_translucent.vsh"]}}
+{"pack": {"pack_format": 6, "supported_formats": {"min_inclusive": 6, "max_inclusive": 99}, "description": "§6RaneWorld 1.21\n§fmc.raneworld.ru"}, "sodium": {"ignored_shaders": ["rendertype_entity_translucent.fsh", "rendertype_entity_translucent.vsh"]}}
