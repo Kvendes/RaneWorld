@@ -1,6 +1,280 @@
 {
     "parent": "minecraft:item/handheld",
     "textures": {
-        "layer0": "astrum:item/ui/battle_royale/shadow_blade"
-    }
+        "layer0": "astrum:item/3d/shadow_blade"
+    },
+    "elements": [
+        {
+            "from": [
+                7,
+                9,
+                7.75
+            ],
+            "to": [
+                9,
+                16,
+                8.25
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        4
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        0,
+                        8,
+                        4
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        4,
+                        8,
+                        8
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        4,
+                        8,
+                        8
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        8,
+                        0,
+                        16,
+                        4
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        8,
+                        0,
+                        16,
+                        4
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "from": [
+                4.5,
+                8,
+                7.5
+            ],
+            "to": [
+                11.5,
+                9,
+                8.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "from": [
+                7.25,
+                4,
+                7.75
+            ],
+            "to": [
+                8.75,
+                8,
+                8.25
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        3,
+                        12,
+                        13,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        3,
+                        12,
+                        13,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        3,
+                        12,
+                        13,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        3,
+                        12,
+                        13,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        3,
+                        12,
+                        13,
+                        16
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        3,
+                        12,
+                        13,
+                        16
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        },
+        {
+            "from": [
+                6.75,
+                3,
+                7.5
+            ],
+            "to": [
+                9.25,
+                4,
+                8.5
+            ],
+            "faces": {
+                "north": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "south": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "east": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "west": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "up": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                },
+                "down": {
+                    "uv": [
+                        0,
+                        8,
+                        16,
+                        12
+                    ],
+                    "texture": "#layer0"
+                }
+            }
+        }
+    ]
 }
